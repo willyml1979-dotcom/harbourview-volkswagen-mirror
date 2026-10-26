@@ -1,6 +1,6 @@
 {
   "dealership": "Harbourview Volkswagen",
-  "generated_at": "2026-10-25T18:21:50",
+  "generated_at": "2026-10-26T03:13:48",
   "vehicle_count": 217,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -679,7 +679,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Chevrolet Blazer RSin Nanaimo",
+      "name": "2021 Chevrolet Blazer RS AWDin Nanaimo",
       "vin": "3GNKBKRS3MS529466",
       "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/fc5a029c229d.html",
       "year": 2021,
@@ -877,7 +877,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Volkswagen Taos Comfortline 1.5 Tsiin Nanaimo",
+      "name": "2022 Volkswagen Taos Comfortline 4MOTIONin Nanaimo",
       "vin": "3VVLX7B22NM037170",
       "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/43a7d53c6b38.html",
       "year": 2022,
@@ -1141,7 +1141,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Kia Sportage Ex Premiumin Nanaimo",
+      "name": "2024 Kia Sportage EX AWDin Nanaimo",
       "vin": "KNDPVCDF3R7288424",
       "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/930e3b682079.html",
       "year": 2024,
@@ -1229,7 +1229,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Volkswagen Taos 1.5tsi Trendline 8in Nanaimo",
+      "name": "2024 Volkswagen Taos Trendline FWDin Nanaimo",
       "vin": "3VVCX7B23RM005107",
       "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/d4c4c2957b9a.html",
       "year": 2024,
