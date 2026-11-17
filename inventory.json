@@ -1,346 +1,182 @@
 {
   "dealership": "Harbourview Volkswagen",
-  "generated_at": "2026-10-26T03:24:32",
-  "vehicle_count": 215,
+  "generated_at": "2026-11-16T19:26:02",
+  "vehicle_count": 202,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
     {
-      "name": "New 2026 Volkswagen Jetta Trendline Autoin Nanaimo",
-      "vin": "3VWCW7BUXTM067112",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/new/5175d82aad3b.html",
-      "condition": "new",
-      "price": 31637.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Volkswagen Jetta Trendline Autoin Nanaimo",
-      "vin": "3VWCW7BU6TM063509",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/new/27a9ce999a8b.html",
-      "condition": "new",
-      "price": 33687.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Volkswagen Jetta Comfortline Autoin Nanaimo",
-      "vin": "3VWEW7BU3TM053724",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/new/50639ab61e88.html",
-      "condition": "new",
-      "price": 34137.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Volkswagen Jetta Trendline Autoin Nanaimo",
-      "vin": "3VWCW7BU5TM065784",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/new/69fe021851b2.html",
-      "condition": "new",
-      "price": 31637.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Volkswagen Jetta Comfortline Autoin Nanaimo",
-      "vin": "3VWSW7BU9TM079506",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/new/ac5c1d332c0d.html",
-      "condition": "new",
-      "price": 37287.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Volkswagen Jetta Trendline Autoin Nanaimo",
-      "vin": "3VWCW7BU3TM069736",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/new/d6693afd3e59.html",
-      "condition": "new",
-      "price": 33687.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Volkswagen Taos Comfortline Black Edition 4MOTIONin Nanaimo",
-      "vin": "3VV2C7B22TM092030",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/new/8047c0802fe2.html",
-      "condition": "new",
-      "price": 40662.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Volkswagen Taos Trendline 4MOTIONin Nanaimo",
-      "vin": "3VV8C7B27TM063780",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/new/385a8fee7b76.html",
-      "condition": "new",
-      "price": 36862.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Volkswagen Taos Trendline 4MOTIONin Nanaimo",
-      "vin": "3VV8C7B24TM091665",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/new/544390e513b1.html",
-      "condition": "new",
-      "price": 35362.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Volkswagen Taos Trendline 4MOTIONin Nanaimo",
-      "vin": "3VV8C7B23TM092001",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/new/4cfcdf61b589.html",
-      "condition": "new",
-      "price": 35362.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Volkswagen Golf GTIin Nanaimo",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/new/40992becd2d0.html",
-      "condition": "new",
-      "price": 39545.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Volkswagen Jetta Comfortlinein Nanaimo",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/new/ea1f73c7abc7.html",
-      "condition": "new",
-      "price": 36537.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Volkswagen Jetta Comfortlinein Nanaimo",
-      "vin": "3VWEW7BU1VM001916",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/new/6ddcf80b93a6.html",
-      "condition": "new",
-      "price": 34437.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Volkswagen Jetta Comfortlinein Nanaimo",
-      "vin": "3VWSW7BU8VM009739",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/new/da95db323035.html",
-      "condition": "new",
-      "price": 36037.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Volkswagen Jetta Comfortlinein Nanaimo",
-      "vin": "3VWSW7BU2VM015987",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/new/9824bd2764dc.html",
-      "condition": "new",
-      "price": 36037.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Volkswagen Jetta Comfortlinein Nanaimo",
-      "vin": "3VWSW7BUXVM004378",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/new/3a5727755078.html",
-      "condition": "new",
-      "price": 36037.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Volkswagen Jetta Comfortlinein Nanaimo",
-      "vin": "3VWSW7BU1VM004639",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/new/bd849f043a96.html",
-      "condition": "new",
-      "price": 36537.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Volkswagen Jetta Comfortlinein Nanaimo",
-      "vin": "3VWSW7BU7VM001230",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/new/e7fee5f0fb4a.html",
-      "condition": "new",
-      "price": 36037.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Volkswagen Jetta Comfortlinein Nanaimo",
-      "vin": "3VWSW7BU8VM001401",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/new/323e7fb57649.html",
-      "condition": "new",
-      "price": 36537.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Volkswagen Jetta Comfortlinein Nanaimo",
-      "vin": "3VWSW7BU0VM003823",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/new/8b9ed5a7c485.html",
-      "condition": "new",
-      "price": 36037.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Volkswagen Jetta Comfortlinein Nanaimo",
-      "vin": "3VWSW7BUXVM007474",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/new/e7a2ed7d869d.html",
-      "condition": "new",
-      "price": 36037.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Volkswagen Jetta Comfortlinein Nanaimo",
-      "vin": "3VWSW7BU9VM004405",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/new/641be367f149.html",
-      "condition": "new",
-      "price": 36537.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Volkswagen Jetta Comfortlinein Nanaimo",
-      "vin": "3VWEW7BU9VM004756",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/new/b70461cafd2f.html",
-      "condition": "new",
-      "price": 34437.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Volkswagen Jetta Comfortlinein Nanaimo",
-      "vin": "3VWSW7BU6VM003700",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/new/3e9ef4191723.html",
-      "condition": "new",
-      "price": 36037.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Volkswagen Jetta Comfortlinein Nanaimo",
-      "vin": "3VWSW7BU6VM015748",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/new/20d88177ff23.html",
-      "condition": "new",
-      "price": 36037.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Volkswagen Jetta Comfortlinein Nanaimo",
-      "vin": "3VWEW7BU6VM003855",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/new/4f0e64801c4f.html",
-      "condition": "new",
-      "price": 34437.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Volkswagen Jetta Comfortlinein Nanaimo",
-      "vin": "3VWSW7BU5VM004370",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/new/b07b94f67656.html",
-      "condition": "new",
-      "price": 36037.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Volkswagen Jetta GLI Autobahn | 228 Horsepower of Pure Driving Excitement! Sunroof! Red Calipers!in Nanaimo",
-      "vin": "3VW2M7BU9VM006595",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/new/3395836a18b2.html",
-      "condition": "new",
-      "price": 41436.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Volkswagen Taos Comfortline 4motionin Nanaimo",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/new/269a75da15b8.html",
-      "condition": "new",
-      "price": 42162.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Volkswagen Taos Trendline 4MOTIONin Nanaimo",
-      "vin": "3VV8D7B23VM002989",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/new/4519b4be8ed7.html",
-      "condition": "new",
-      "price": 39537.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Volkswagen Taos Trendline 4motionin Nanaimo",
-      "vin": "3VV8D7B26VM021472",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/new/54f9219baeb9.html",
-      "condition": "new",
-      "price": 37362.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Volkswagen Taos Trendline 4motionin Nanaimo",
-      "vin": "3VV8D7B23VM012227",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/new/c2eb25eba9d4.html",
-      "condition": "new",
-      "price": 37362.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Volkswagen Taos Trendline 4motionin Nanaimo",
-      "vin": "3VV8D7B25VM012973",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/new/382b57208d2c.html",
-      "condition": "new",
-      "price": 37362.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Volkswagen Taos Trendline 4motionin Nanaimo",
-      "vin": "3VV8D7B29VM011034",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/new/ba0e960a64d9.html",
-      "condition": "new",
-      "price": 37362.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Volkswagen Tiguan Trendline 4motionin Nanaimo",
-      "vin": "3VVBR7RM1VM002343",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/new/8577681989e9.html",
-      "condition": "new",
-      "price": 40387.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2013 Jeep Wrangler Sportin Nanaimo",
-      "vin": "1C4AJWAG9DL617062",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/b6a705831d27.html",
-      "year": 2013,
-      "make": "Jeep",
-      "model": "Wrangler",
+      "name": "Volkswagen Golf GTI 2013 for salein Nanaimo",
+      "vin": "WVWGV7AJ2DW124581",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/57b06ca87e49.html",
       "condition": "used",
-      "price": 15977.0,
+      "price": 17477.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2013 Jeep Wrangler ",
-      "vin": "1C4AJWAG9DL617062",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/d8c55c978797.html",
-      "year": 2013,
-      "make": "Jeep",
-      "model": "Wrangler",
+      "name": "Mazda CX-5 2018 for salein Nanaimo",
+      "vin": "JM3KFBDM0J0361222",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/c217f2079b76.html",
       "condition": "used",
-      "price": 15977.0,
+      "price": 21977.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2013 Toyota Corolla LEin Nanaimo",
-      "vin": "2T1BU4EE7DC062838",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/62f4aa8dedf3.html",
-      "year": 2013,
-      "make": "Toyota",
-      "model": "Corolla",
+      "name": "Volkswagen Atlas 2018 for salein Nanaimo",
+      "vin": "1V2LR2CA0JC515923",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/0fa30ee5fffc.html",
       "condition": "used",
-      "price": 15777.0,
+      "price": 24977.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2013 Toyota Corolla ",
-      "vin": "2T1BU4EE7DC062838",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/19670a9ec232.html",
-      "year": 2013,
-      "make": "Toyota",
-      "model": "Corolla",
+      "name": "Volkswagen Golf 2018 for salein Nanaimo",
+      "vin": "3VWG17AU7JM277519",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/1a315f2682bc.html",
       "condition": "used",
-      "price": 15777.0,
+      "price": 16677.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "BMW X5 2019 for salein Nanaimo",
+      "vin": "5UXCR6C5XKLK81060",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/598b13ba9970.html",
+      "condition": "used",
+      "price": 40977.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Kia Niro 2020 for salein Nanaimo",
+      "vin": "KNDCD3LD0L5433729",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/e81948ba8ec4.html",
+      "condition": "used",
+      "price": 20377.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen Jetta 2020 for salein Nanaimo",
+      "vin": "3VWCB7BU5LM037818",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/7e38853a6697.html",
+      "condition": "used",
+      "price": 17977.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen Tiguan 2020 for salein Nanaimo",
+      "vin": "3VV2B7AX1LM103678",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/263462e543a0.html",
+      "condition": "used",
+      "price": 23977.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen Tiguan 2021 for salein Nanaimo",
+      "vin": "3VV2B7AX1MM070862",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/ada491d1002b.html",
+      "condition": "used",
+      "price": 23977.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Audi Q7 2022 for salein Nanaimo",
+      "vin": "WA1MXBF76ND013696",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/097730a76c80.html",
+      "condition": "used",
+      "price": 41977.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "BMW 3 Series 2022 for salein Nanaimo",
+      "vin": "3MW5R7J00N8C60542",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/66f6df7d00dd.html",
+      "condition": "used",
+      "price": 29977.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen Golf R 2022 for salein Nanaimo",
+      "vin": "WVWEB7CD7NW175289",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/45455926aaff.html",
+      "condition": "used",
+      "price": 35577.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen Taos 2022 for salein Nanaimo",
+      "vin": "3VVLX7B22NM037170",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/2ba45dc54799.html",
+      "condition": "used",
+      "price": 21277.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen Tiguan 2022 for salein Nanaimo",
+      "vin": "3VV2B7AX8NM035267",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/d87ae3c74ae6.html",
+      "condition": "used",
+      "price": 27977.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Audi Q5 2023 for salein Nanaimo",
+      "vin": "WA1EAAFY6P2132131",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/097682b2dccb.html",
+      "condition": "used",
+      "price": 29977.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen Atlas 2023 for salein Nanaimo",
+      "vin": "1V2BR2CAXPC538632",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/dc368da5619a.html",
+      "condition": "used",
+      "price": 35977.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen Tiguan 2023 for salein Nanaimo",
+      "vin": "3VV8B7AX5PM006466",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/42f413f98fac.html",
+      "condition": "used",
+      "price": 32477.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Audi Q5 2024 for salein Nanaimo",
+      "vin": "WA1ABAFY7R2125851",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/09c2b9632b7a.html",
+      "condition": "used",
+      "price": 34577.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mazda CX-50 2024 for salein Nanaimo",
+      "vin": "7MMVABDYXRN176004",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/b48aff9f8ff3.html",
+      "condition": "used",
+      "price": 38277.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen Atlas 2024 for salein Nanaimo",
+      "vin": "1V2LR2CA2RC512209",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/6f1a37af341d.html",
+      "condition": "used",
+      "price": 38377.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen Taos 2024 for salein Nanaimo",
+      "vin": "3VVCX7B23RM005107",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/22823752a0ce.html",
+      "condition": "used",
+      "price": 21977.0,
       "price_currency": "CAD"
     },
     {
       "name": "2013 Volkswagen Golf GTI 5dr HB Manin Nanaimo",
       "vin": "WVWGV7AJ2DW124581",
       "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/13f9ce89817c.html",
-      "year": 2013,
-      "make": "Volkswagen",
-      "model": "Golf GTI",
-      "condition": "used",
-      "price": 19999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2013 Volkswagen Golf GTI ",
-      "vin": "WVWGV7AJ2DW124581",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/57b06ca87e49.html",
       "year": 2013,
       "make": "Volkswagen",
       "model": "Golf GTI",
@@ -415,6 +251,28 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2018 Mazda CX-5 GTin Nanaimo",
+      "vin": "JM3KFBDM0J0361222",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/51674da07d7e.html",
+      "year": 2018,
+      "make": "Mazda",
+      "model": "CX-5",
+      "condition": "used",
+      "price": 21977.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2018 Volkswagen Atlas Comfort 3.6l V6in Nanaimo",
+      "vin": "1V2LR2CA0JC515923",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/c7e6bfbaf5ed.html",
+      "year": 2018,
+      "make": "Volkswagen",
+      "model": "Atlas",
+      "condition": "used",
+      "price": 24977.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2018 Volkswagen Golf Comfort 5dr 1.8lin Nanaimo",
       "vin": "3VWG17AU6JM289340",
       "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/55b039ca7680.html",
@@ -437,36 +295,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2018 Volkswagen Golf ",
-      "vin": "3VWG17AU7JM277519",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/1a315f2682bc.html",
-      "year": 2018,
-      "make": "Volkswagen",
-      "model": "Golf",
+      "name": "2019 Mercedes-Benz A-Class A 220in Nanaimo",
+      "vin": "WDD3G4FB0KW028959",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/34fa25e9736d.html",
+      "year": 2019,
+      "make": "Mercedes-Benz",
+      "model": "A-Class A 220in Nanaimo",
       "condition": "used",
-      "price": 17999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2018 Volkswagen Tiguan Comfort 2.0 Tsiin Nanaimo",
-      "vin": "3VV2B7AX6JM004786",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/6305112812a5.html",
-      "year": 2018,
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "condition": "used",
-      "price": 18977.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2018 Volkswagen Tiguan ",
-      "vin": "3VV2B7AX6JM004786",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/2575f6b40eff.html",
-      "year": 2018,
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "condition": "used",
-      "price": 18977.0,
+      "price": 23277.0,
       "price_currency": "CAD"
     },
     {
@@ -481,135 +317,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2019 Toyota 4Runner ",
-      "vin": "JTEBU5JR4K5613523",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/5b679ebdaeff.html",
-      "year": 2019,
-      "make": "Toyota",
-      "model": "4Runner",
-      "condition": "used",
-      "price": 44999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Volkswagen Atlas Highl 3.6l V6 276hpin Nanaimo",
-      "vin": "1V2RR2CAXKC601316",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/a30e586649b7.html",
-      "year": 2019,
-      "make": "Volkswagen",
-      "model": "Atlas",
-      "condition": "used",
-      "price": 27777.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Volkswagen Atlas ",
-      "vin": "1V2RR2CAXKC601316",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/cd61589a22c1.html",
-      "year": 2019,
-      "make": "Volkswagen",
-      "model": "Atlas",
-      "condition": "used",
-      "price": 27777.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Volkswagen Beetle Dunein Nanaimo",
-      "vin": "3VWSD7AT5KM700690",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/79f2e7da26ed.html",
-      "year": 2019,
-      "make": "Volkswagen",
-      "model": "Beetle",
-      "condition": "used",
-      "price": 26477.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Volkswagen Beetle ",
-      "vin": "3VWSD7AT5KM700690",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/1b03a6bcb180.html",
-      "year": 2019,
-      "make": "Volkswagen",
-      "model": "Beetle",
-      "condition": "used",
-      "price": 26477.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Volkswagen Jetta Execline Autoin Nanaimo",
-      "vin": "3VWG57BU6KM143184",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/af92db8787a0.html",
-      "year": 2019,
-      "make": "Volkswagen",
-      "model": "Jetta",
-      "condition": "used",
-      "price": 18277.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Volkswagen Jetta ",
-      "vin": "3VWG57BU6KM143184",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/44c940cfe2f8.html",
-      "year": 2019,
-      "make": "Volkswagen",
-      "model": "Jetta",
-      "condition": "used",
-      "price": 18277.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2020 Ford Explorer STin Nanaimo",
-      "vin": "1FM5K8GC5LGD18900",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/816020b5a537.html",
-      "year": 2020,
-      "make": "Ford",
-      "model": "Explorer",
-      "condition": "used",
-      "price": 27977.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2020 Ford Explorer ",
-      "vin": "1FM5K8GC5LGD18900",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/52f92487b4a5.html",
-      "year": 2020,
-      "make": "Ford",
-      "model": "Explorer",
-      "condition": "used",
-      "price": 27977.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2020 Honda Pilot ",
-      "vin": "5FNYF6H64LB504294",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/2f8539bbc291.html",
-      "year": 2020,
-      "make": "Honda",
-      "model": "Pilot",
-      "condition": "used",
-      "price": 29999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2020 Kia Niro EV Sx Touringin Nanaimo",
+      "name": "2020 Kia Niro Plug-In Hybrid EX Premium FWDin Nanaimo",
       "vin": "KNDCD3LD0L5433729",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/5a674099e4f7.html",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/2079121f6910.html",
       "year": 2020,
       "make": "Kia",
-      "model": "Niro EV",
+      "model": "Niro Plug-In Hybrid",
       "condition": "used",
-      "price": 21999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2020 Kia Niro EV ",
-      "vin": "KNDCD3LD0L5433729",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/67ea7df2abd4.html",
-      "year": 2020,
-      "make": "Kia",
-      "model": "Niro EV",
-      "condition": "used",
-      "price": 21999.0,
+      "price": 20377.0,
       "price_currency": "CAD"
     },
     {
@@ -668,36 +383,36 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2020 Volkswagen Jetta ",
-      "vin": "3VWCB7BU5LM037818",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/7e38853a6697.html",
+      "name": "2020 Volkswagen Tiguan Comfort 2.0 Tsiin Nanaimo",
+      "vin": "3VV2B7AX1LM103678",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/33ddea09d918.html",
       "year": 2020,
       "make": "Volkswagen",
-      "model": "Jetta",
+      "model": "Tiguan",
       "condition": "used",
-      "price": 18977.0,
+      "price": 23977.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Chevrolet Blazer RS AWDin Nanaimo",
-      "vin": "3GNKBKRS3MS529466",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/fc5a029c229d.html",
-      "year": 2021,
-      "make": "Chevrolet",
-      "model": "Blazer",
+      "name": "2020 Volkswagen Tiguan Comfortlinein Nanaimo",
+      "vin": "3VV2B7AX2LM169219",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/6e00a1b26be3.html",
+      "year": 2020,
+      "make": "Volkswagen",
+      "model": "Tiguan",
       "condition": "used",
-      "price": 22677.0,
+      "price": 26977.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Chevrolet Blazer ",
-      "vin": "3GNKBKRS3MS529466",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/352667efc567.html",
+      "name": "2021 Volkswagen Tiguan United 2.0tsi 184hpin Nanaimo",
+      "vin": "3VV2B7AX1MM070862",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/add2b4698a9e.html",
       "year": 2021,
-      "make": "Chevrolet",
-      "model": "Blazer",
+      "make": "Volkswagen",
+      "model": "Tiguan",
       "condition": "used",
-      "price": 22677.0,
+      "price": 23977.0,
       "price_currency": "CAD"
     },
     {
@@ -745,17 +460,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Audi Q7 ",
-      "vin": "WA1MXBF76ND013696",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/097730a76c80.html",
-      "year": 2022,
-      "make": "Audi",
-      "model": "Q7",
-      "condition": "used",
-      "price": 43977.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2022 Audi e-tron ",
       "vin": "WA13AAGE5NB043188",
       "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/new/26801a1ac78c.html",
@@ -800,47 +504,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 BMW 3 Series ",
+      "name": "2022 BMW 3 Series 330i Xdrivein Nanaimo",
       "vin": "3MW5R7J00N8C60542",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/66f6df7d00dd.html",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/38a6b713eeee.html",
       "year": 2022,
       "make": "BMW",
       "model": "3 Series",
       "condition": "used",
-      "price": 30977.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Subaru Outback ",
-      "vin": "4S4BTDNC4N3119729",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/d6c0f149011e.html",
-      "year": 2022,
-      "make": "Subaru",
-      "model": "Outback",
-      "condition": "used",
-      "price": 30477.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Toyota Corolla Hatchback Basein Nanaimo",
-      "vin": "JTNK4MBE4N3157707",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/c459a5e067e6.html",
-      "year": 2022,
-      "make": "Toyota",
-      "model": "Corolla",
-      "condition": "used",
-      "price": 24577.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Toyota Corolla Hatchback ",
-      "vin": "JTNK4MBE4N3157707",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/979e7cdd985a.html",
-      "year": 2022,
-      "make": "Toyota",
-      "model": "Corolla Hatchback",
-      "condition": "used",
-      "price": 24577.0,
+      "price": 29977.0,
       "price_currency": "CAD"
     },
     {
@@ -855,25 +526,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Volkswagen Golf R ",
-      "vin": "WVWEB7CD7NW175289",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/45455926aaff.html",
-      "year": 2022,
-      "make": "Volkswagen",
-      "model": "Golf R",
-      "condition": "used",
-      "price": 36277.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Volkswagen Taos Comfortlinein Nanaimo",
-      "vin": "3VVWX7B20NM096019",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/88f1ab7c63bc.html",
+      "name": "2022 Volkswagen Taos Highlinein Nanaimo",
+      "vin": "3VV2X7B25NM074421",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/f86ccdba15dc.html",
       "year": 2022,
       "make": "Volkswagen",
       "model": "Taos",
       "condition": "used",
-      "price": 27277.0,
+      "price": 28977.0,
       "price_currency": "CAD"
     },
     {
@@ -885,6 +545,17 @@
       "model": "Taos",
       "condition": "used",
       "price": 21977.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2022 Volkswagen Taos Highlinein Nanaimo",
+      "vin": "3VV2X7B22NM091998",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/f61ee5fa9cff.html",
+      "year": 2022,
+      "make": "Volkswagen",
+      "model": "Taos",
+      "condition": "used",
+      "price": 29377.0,
       "price_currency": "CAD"
     },
     {
@@ -910,36 +581,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Volkswagen Taos ",
-      "vin": "3VVLX7B22NM037170",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/2ba45dc54799.html",
-      "year": 2022,
-      "make": "Volkswagen",
-      "model": "Taos",
-      "condition": "used",
-      "price": 21977.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Volkswagen Tiguan Comfortline R-Linein Nanaimo",
-      "vin": "3VV8B7AX9NM127630",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/d9909d4f53c8.html",
+      "name": "2022 Volkswagen Tiguan Comfort 2.0 Tsiin Nanaimo",
+      "vin": "3VV2B7AX8NM035267",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/e1931060cea9.html",
       "year": 2022,
       "make": "Volkswagen",
       "model": "Tiguan",
       "condition": "used",
-      "price": 28977.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Volkswagen Tiguan ",
-      "vin": "3VV8B7AX9NM127630",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/d87ae3c74ae6.html",
-      "year": 2022,
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "condition": "used",
-      "price": 28977.0,
+      "price": 27977.0,
       "price_currency": "CAD"
     },
     {
@@ -954,25 +603,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Audi e-tron ",
-      "vin": "WA13AAGEXPB003577",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/db4304233dde.html",
-      "year": 2023,
-      "make": "Audi",
-      "model": "e-tron",
-      "condition": "used",
-      "price": 40999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Audi Q5 ",
+      "name": "2023 Audi Q5 Progressiv 45 TFSI quattroin Nanaimo",
       "vin": "WA1EAAFY6P2132131",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/097682b2dccb.html",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/d9e4eec0f49b.html",
       "year": 2023,
       "make": "Audi",
       "model": "Q5",
       "condition": "used",
-      "price": 31477.0,
+      "price": 29977.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2023 Audi Q5 Progressivin Nanaimo",
+      "vin": "WA1EAAFY8P2093249",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/5c358c08365d.html",
+      "year": 2023,
+      "make": "Audi",
+      "model": "Q5",
+      "condition": "used",
+      "price": 31977.0,
       "price_currency": "CAD"
     },
     {
@@ -984,17 +633,6 @@
       "model": "Q5",
       "condition": "new",
       "price": 31477.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Honda CR-V ",
-      "vin": "2HKRS4H2XPH104801",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/c98063d5a65f.html",
-      "year": 2023,
-      "make": "Honda",
-      "model": "CR-V",
-      "condition": "used",
-      "price": 32977.0,
       "price_currency": "CAD"
     },
     {
@@ -1020,58 +658,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Volkswagen Atlas ",
-      "vin": "1V2BR2CAXPC538632",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/dc368da5619a.html",
-      "year": 2023,
-      "make": "Volkswagen",
-      "model": "Atlas",
-      "condition": "used",
-      "price": 37277.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Volkswagen Taos Comfortlinein Nanaimo",
-      "vin": "3VV7X7B26PM309417",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/d07f63e6d802.html",
-      "year": 2023,
-      "make": "Volkswagen",
-      "model": "Taos",
-      "condition": "used",
-      "price": 27977.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Volkswagen Taos ",
-      "vin": "3VV7X7B26PM309417",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/dcf7f4d5dd40.html",
-      "year": 2023,
-      "make": "Volkswagen",
-      "model": "Taos",
-      "condition": "used",
-      "price": 27977.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2023 Volkswagen Tiguan Comfortline R-Linein Nanaimo",
-      "vin": "3VV8B7AX6PM009568",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/90d442ee4ede.html",
+      "vin": "3VV8B7AX5PM006466",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/983a157c9cc6.html",
       "year": 2023,
       "make": "Volkswagen",
       "model": "Tiguan",
       "condition": "used",
-      "price": 29999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Volkswagen Tiguan ",
-      "vin": "3VV8B7AX6PM009568",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/42f413f98fac.html",
-      "year": 2023,
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "condition": "used",
-      "price": 29999.0,
+      "price": 32477.0,
       "price_currency": "CAD"
     },
     {
@@ -1099,45 +693,12 @@
     {
       "name": "2024 Audi Q5 ",
       "vin": "WA1ABAFY7R2125851",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/09c2b9632b7a.html",
-      "year": 2024,
-      "make": "Audi",
-      "model": "Q5",
-      "condition": "used",
-      "price": 35977.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Audi Q5 ",
-      "vin": "WA1ABAFY7R2125851",
       "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/new/09c2b9632b7a.html",
       "year": 2024,
       "make": "Audi",
       "model": "Q5",
       "condition": "new",
       "price": 37999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Kia Sportage EX AWDin Nanaimo",
-      "vin": "KNDPVCDF3R7288424",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/930e3b682079.html",
-      "year": 2024,
-      "make": "Kia",
-      "model": "Sportage",
-      "condition": "used",
-      "price": 29277.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Kia Sportage ",
-      "vin": "KNDPVCDF3R7288424",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/e2c08ef33182.html",
-      "year": 2024,
-      "make": "Kia",
-      "model": "Sportage",
-      "condition": "used",
-      "price": 29277.0,
       "price_currency": "CAD"
     },
     {
@@ -1154,45 +715,12 @@
     {
       "name": "2024 Mazda CX-50 ",
       "vin": "7MMVABDYXRN176004",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/b48aff9f8ff3.html",
-      "year": 2024,
-      "make": "Mazda",
-      "model": "CX-50",
-      "condition": "used",
-      "price": 39277.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Mazda CX-50 ",
-      "vin": "7MMVABDYXRN176004",
       "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/new/b48aff9f8ff3.html",
       "year": 2024,
       "make": "Mazda",
       "model": "CX-50",
       "condition": "new",
       "price": 39577.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Volkswagen Atlas ",
-      "vin": "1V2LR2CA2RC512209",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/6f1a37af341d.html",
-      "year": 2024,
-      "make": "Volkswagen",
-      "model": "Atlas",
-      "condition": "used",
-      "price": 39777.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Volkswagen ID.4 ",
-      "vin": "1V2JSPE8XRC010079",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/a361bd172b76.html",
-      "year": 2024,
-      "make": "Volkswagen",
-      "model": "ID.4",
-      "condition": "used",
-      "price": 44977.0,
       "price_currency": "CAD"
     },
     {
@@ -1218,14 +746,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Volkswagen Taos ",
-      "vin": "3VVCX7B23RM005107",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/22823752a0ce.html",
+      "name": "2024 Volkswagen Taos Highlinein Nanaimo",
+      "vin": "3VV4X7B21RM042533",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/824e9a398b7e.html",
       "year": 2024,
       "make": "Volkswagen",
       "model": "Taos",
       "condition": "used",
-      "price": 23377.0,
+      "price": 32377.0,
       "price_currency": "CAD"
     },
     {
@@ -1416,36 +944,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Volkswagen Jetta Comfortlinein Nanaimo",
-      "vin": "3VWSX7BU5SM047339",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/e7062de84d5f.html",
-      "year": 2025,
-      "make": "Volkswagen",
-      "model": "Jetta",
-      "condition": "used",
-      "price": 28277.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Volkswagen Jetta ",
-      "vin": "3VWSX7BU5SM047339",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/46d4779e35a6.html",
-      "year": 2025,
-      "make": "Volkswagen",
-      "model": "Jetta",
-      "condition": "used",
-      "price": 28277.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Volkswagen Taos Comfortline 1.5 Tsiin Nanaimo",
-      "vin": "3VVVC7B23SM022483",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/407175e72842.html",
+      "name": "2025 Volkswagen Taos Comfortline Black Edition 4MOTIONin Nanaimo",
+      "vin": "3VV2C7B24SM047802",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/2173463fffb6.html",
       "year": 2025,
       "make": "Volkswagen",
       "model": "Taos",
       "condition": "used",
-      "price": 29777.0,
+      "price": 30477.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Volkswagen Taos Comfortline Blackin Nanaimo",
+      "vin": "3VV2C7B26SM060471",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/8cae8f9570b9.html",
+      "year": 2025,
+      "make": "Volkswagen",
+      "model": "Taos",
+      "condition": "used",
+      "price": 30477.0,
       "price_currency": "CAD"
     },
     {
@@ -1702,6 +1219,39 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2026 Volkswagen Jetta Trendline Autoin Nanaimo",
+      "vin": "3VWCW7BUXTM067112",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/new/5175d82aad3b.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Jetta",
+      "condition": "new",
+      "price": 31637.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Volkswagen Jetta Trendline Autoin Nanaimo",
+      "vin": "3VWCW7BU6TM063509",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/new/27a9ce999a8b.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Jetta",
+      "condition": "new",
+      "price": 33687.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Volkswagen Jetta Comfortline Autoin Nanaimo",
+      "vin": "3VWEW7BU3TM053724",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/new/50639ab61e88.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Jetta",
+      "condition": "new",
+      "price": 34137.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 Volkswagen Jetta Trendlinein Nanaimo",
       "vin": "3VWCW7BU6TM063509",
       "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/new/a69992be0d8b.html",
@@ -1710,6 +1260,39 @@
       "model": "Jetta",
       "condition": "new",
       "price": 31637.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Volkswagen Jetta Trendline Autoin Nanaimo",
+      "vin": "3VWCW7BU5TM065784",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/new/69fe021851b2.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Jetta",
+      "condition": "new",
+      "price": 31637.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Volkswagen Jetta Comfortline Autoin Nanaimo",
+      "vin": "3VWSW7BU9TM079506",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/new/ac5c1d332c0d.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Jetta",
+      "condition": "new",
+      "price": 37287.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Volkswagen Jetta Trendline Autoin Nanaimo",
+      "vin": "3VWCW7BU3TM069736",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/new/d6693afd3e59.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Jetta",
+      "condition": "new",
+      "price": 33687.0,
       "price_currency": "CAD"
     },
     {
@@ -1754,6 +1337,50 @@
       "model": "Taos",
       "condition": "new",
       "price": 39662.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Volkswagen Taos Comfortline Black Edition 4MOTIONin Nanaimo",
+      "vin": "3VV2C7B22TM092030",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/new/8047c0802fe2.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Taos",
+      "condition": "new",
+      "price": 40662.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Volkswagen Taos Trendline 4MOTIONin Nanaimo",
+      "vin": "3VV8C7B27TM063780",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/new/385a8fee7b76.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Taos",
+      "condition": "new",
+      "price": 36862.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Volkswagen Taos Trendline 4MOTIONin Nanaimo",
+      "vin": "3VV8C7B24TM091665",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/new/544390e513b1.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Taos",
+      "condition": "new",
+      "price": 35362.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Volkswagen Taos Trendline 4MOTIONin Nanaimo",
+      "vin": "3VV8C7B23TM092001",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/new/4cfcdf61b589.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Taos",
+      "condition": "new",
+      "price": 35362.0,
       "price_currency": "CAD"
     },
     {
@@ -1900,6 +1527,16 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2027 Volkswagen Golf GTIin Nanaimo",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/new/40992becd2d0.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Golf",
+      "condition": "new",
+      "price": 39545.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2027 Volkswagen Jetta Comfortline | Sport Pkg, Sunroof, Black Alloys, Travel Assistin Nanaimo",
       "vin": "3VWSW7BU0VM003823",
       "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/new/9885ab5d3e5e.html",
@@ -1966,6 +1603,16 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2027 Volkswagen Jetta Comfortlinein Nanaimo",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/new/ea1f73c7abc7.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Jetta",
+      "condition": "new",
+      "price": 36537.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2027 Volkswagen Jetta Comfortlinein Nanaimo",
       "vin": "3VWEW7BU0VM003804",
       "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/new/7ec847b9e58a.html",
@@ -1974,6 +1621,39 @@
       "model": "Jetta",
       "condition": "new",
       "price": 34437.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Volkswagen Jetta Comfortlinein Nanaimo",
+      "vin": "3VWEW7BU1VM001916",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/new/6ddcf80b93a6.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Jetta",
+      "condition": "new",
+      "price": 34437.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Volkswagen Jetta Comfortlinein Nanaimo",
+      "vin": "3VWSW7BU8VM009739",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/new/da95db323035.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Jetta",
+      "condition": "new",
+      "price": 36037.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Volkswagen Jetta Comfortlinein Nanaimo",
+      "vin": "3VWSW7BU2VM015987",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/new/9824bd2764dc.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Jetta",
+      "condition": "new",
+      "price": 36037.0,
       "price_currency": "CAD"
     },
     {
@@ -2005,6 +1685,149 @@
       "model": "Jetta",
       "condition": "new",
       "price": 36037.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Volkswagen Jetta Comfortlinein Nanaimo",
+      "vin": "3VWSW7BUXVM004378",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/new/3a5727755078.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Jetta",
+      "condition": "new",
+      "price": 36037.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Volkswagen Jetta Comfortlinein Nanaimo",
+      "vin": "3VWSW7BU1VM004639",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/new/bd849f043a96.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Jetta",
+      "condition": "new",
+      "price": 36537.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Volkswagen Jetta Comfortlinein Nanaimo",
+      "vin": "3VWSW7BU7VM001230",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/new/e7fee5f0fb4a.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Jetta",
+      "condition": "new",
+      "price": 36037.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Volkswagen Jetta Comfortlinein Nanaimo",
+      "vin": "3VWSW7BU8VM001401",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/new/323e7fb57649.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Jetta",
+      "condition": "new",
+      "price": 36537.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Volkswagen Jetta Comfortlinein Nanaimo",
+      "vin": "3VWSW7BU0VM003823",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/new/8b9ed5a7c485.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Jetta",
+      "condition": "new",
+      "price": 36037.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Volkswagen Jetta Comfortlinein Nanaimo",
+      "vin": "3VWSW7BUXVM007474",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/new/e7a2ed7d869d.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Jetta",
+      "condition": "new",
+      "price": 36037.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Volkswagen Jetta Comfortlinein Nanaimo",
+      "vin": "3VWSW7BU9VM004405",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/new/641be367f149.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Jetta",
+      "condition": "new",
+      "price": 36537.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Volkswagen Jetta Comfortlinein Nanaimo",
+      "vin": "3VWEW7BU9VM004756",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/new/b70461cafd2f.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Jetta",
+      "condition": "new",
+      "price": 34437.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Volkswagen Jetta Comfortlinein Nanaimo",
+      "vin": "3VWSW7BU6VM003700",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/new/3e9ef4191723.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Jetta",
+      "condition": "new",
+      "price": 36037.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Volkswagen Jetta Comfortlinein Nanaimo",
+      "vin": "3VWSW7BU6VM015748",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/new/20d88177ff23.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Jetta",
+      "condition": "new",
+      "price": 36037.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Volkswagen Jetta Comfortlinein Nanaimo",
+      "vin": "3VWEW7BU6VM003855",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/new/4f0e64801c4f.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Jetta",
+      "condition": "new",
+      "price": 34437.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Volkswagen Jetta Comfortlinein Nanaimo",
+      "vin": "3VWSW7BU5VM004370",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/new/b07b94f67656.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Jetta",
+      "condition": "new",
+      "price": 36037.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Volkswagen Jetta GLI Autobahn | 228 Horsepower of Pure Driving Excitement! Sunroof! Red Calipers!in Nanaimo",
+      "vin": "3VW2M7BU9VM006595",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/new/3395836a18b2.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Jetta GLI",
+      "condition": "new",
+      "price": 41436.0,
       "price_currency": "CAD"
     },
     {
@@ -2047,6 +1870,71 @@
       "model": "Taos",
       "condition": "new",
       "price": 43662.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Volkswagen Taos Comfortline 4motionin Nanaimo",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/new/269a75da15b8.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Taos",
+      "condition": "new",
+      "price": 42162.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Volkswagen Taos Trendline 4MOTIONin Nanaimo",
+      "vin": "3VV8D7B23VM002989",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/new/4519b4be8ed7.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Taos",
+      "condition": "new",
+      "price": 39537.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Volkswagen Taos Trendline 4motionin Nanaimo",
+      "vin": "3VV8D7B26VM021472",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/new/54f9219baeb9.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Taos",
+      "condition": "new",
+      "price": 37362.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Volkswagen Taos Trendline 4motionin Nanaimo",
+      "vin": "3VV8D7B23VM012227",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/new/c2eb25eba9d4.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Taos",
+      "condition": "new",
+      "price": 37362.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Volkswagen Taos Trendline 4motionin Nanaimo",
+      "vin": "3VV8D7B25VM012973",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/new/382b57208d2c.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Taos",
+      "condition": "new",
+      "price": 37362.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Volkswagen Taos Trendline 4motionin Nanaimo",
+      "vin": "3VV8D7B29VM011034",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/new/ba0e960a64d9.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Taos",
+      "condition": "new",
+      "price": 37362.0,
       "price_currency": "CAD"
     },
     {
@@ -2159,6 +2047,17 @@
       "model": "Taos",
       "condition": "new",
       "price": 45162.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Volkswagen Tiguan Trendline 4motionin Nanaimo",
+      "vin": "3VVBR7RM1VM002343",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/new/8577681989e9.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Tiguan",
+      "condition": "new",
+      "price": 40387.0,
       "price_currency": "CAD"
     },
     {
