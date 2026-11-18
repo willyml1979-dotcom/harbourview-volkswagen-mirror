@@ -1,6 +1,6 @@
 {
   "dealership": "Harbourview Volkswagen",
-  "generated_at": "2026-11-18T13:14:27",
+  "generated_at": "2026-11-18T13:21:53",
   "vehicle_count": 211,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -1423,47 +1423,47 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Volkswagen Atlas ",
-      "vin": "1V2D53DH4VC502891",
+      "name": "2027 Volkswagen Atlasin Nanaimo",
+      "vin": "1V2A53DH5VC508962",
       "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/new/522575cb54fc.html",
       "year": 2027,
       "make": "Volkswagen",
-      "model": "Atlas",
+      "model": "Atlasin Nanaimo",
       "condition": "new",
-      "price": 64387.0,
+      "price": 60087.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Volkswagen Jetta GLI ",
-      "vin": "3VW2M7BU9VM006595",
+      "name": "2027 Volkswagen Jetta GLIin Nanaimo",
+      "vin": "3VW2M7BU3VM008407",
       "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/new/6fa6d38f2a44.html",
-      "year": 2027,
-      "make": "Volkswagen",
-      "model": "Jetta GLI",
-      "condition": "new",
-      "price": 41436.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Volkswagen Jetta ",
-      "vin": "3VWSW7BU0VM003823",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/new/578dd44927ce.html",
       "year": 2027,
       "make": "Volkswagen",
       "model": "Jetta",
       "condition": "new",
-      "price": 36037.0,
+      "price": 41187.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Volkswagen Taos ",
+      "name": "2027 Volkswagen Jettain Nanaimo",
+      "vin": "3VWSW7BUXVM004378",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/new/578dd44927ce.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Jettain Nanaimo",
+      "condition": "new",
+      "price": 33237.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Volkswagen Taosin Nanaimo",
       "vin": "3VV8D7B23VM002989",
       "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/new/1094ba78cef0.html",
       "year": 2027,
       "make": "Volkswagen",
-      "model": "Taos",
+      "model": "Taosin Nanaimo",
       "condition": "new",
-      "price": 37362.0,
+      "price": 36337.0,
       "price_currency": "CAD"
     },
     {
