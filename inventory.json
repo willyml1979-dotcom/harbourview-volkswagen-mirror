@@ -1,6 +1,6 @@
 {
   "dealership": "Harbourview Volkswagen",
-  "generated_at": "2026-11-18T04:31:00",
+  "generated_at": "2026-11-18T04:46:52",
   "vehicle_count": 211,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -451,6 +451,30 @@
       "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/new/fe92018827c9.html",
       "condition": "new",
       "price": 30477.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen Tiguan 2025 for salein Nanaimo",
+      "vin": "3VVER7RM8SM019102",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/new/c082b563556b.html",
+      "condition": "new",
+      "price": 36977.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "RAM ProMaster Cargo Van 2026 for salein Nanaimo",
+      "vin": "3C6LRVCG4TE165934",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/new/7048e23ecdf5.html",
+      "condition": "new",
+      "price": 49577.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen Tiguan 2026 for salein Nanaimo",
+      "vin": "3VVER7RM8TM004925",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/new/4b0bdc439f18.html",
+      "condition": "new",
+      "price": 37377.0,
       "price_currency": "CAD"
     },
     {
@@ -949,113 +973,90 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Volkswagen Tiguan ",
-      "vin": "3VVER7RM8SM019102",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/new/c082b563556b.html",
-      "year": 2025,
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "condition": "new",
-      "price": 38477.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 RAM ProMaster Cargo Van ",
-      "vin": "3C6LRVCG4TE165934",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/new/7048e23ecdf5.html",
-      "year": 2026,
-      "make": "RAM",
-      "model": "ProMaster",
-      "condition": "new",
-      "price": 51977.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Volkswagen Atlas ",
-      "vin": "1V2LN2CA3TC557355",
+      "name": "2026 Volkswagen Atlasin Nanaimo",
+      "vin": "1V2BN2CA4TC564052",
       "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/new/a4354f867874.html",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Atlas",
+      "model": "Atlasin Nanaimo",
       "condition": "new",
-      "price": 51537.0,
+      "price": 54837.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Volkswagen Atlas Cross Sport ",
+      "name": "2026 Volkswagen Atlas Cross Sportin Nanaimo",
       "vin": "1V2BC2CA9TC226538",
       "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/new/fea7989d583b.html",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Atlas Cross Sport",
+      "model": "Atlas",
       "condition": "new",
-      "price": 59937.0,
+      "price": 50737.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Volkswagen Golf GTI ",
-      "vin": "WVWPE7CD9TW262026",
+      "name": "2026 Volkswagen Golf GTIin Nanaimo",
+      "vin": "WVWNE7CD1TW291785",
       "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/new/91c328f98e59.html",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Golf GTI",
+      "model": "Golf",
       "condition": "new",
-      "price": 43187.0,
+      "price": 39237.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Volkswagen Golf R ",
+      "name": "2026 Volkswagen Golf Rin Nanaimo",
       "vin": "WVWJF7CDXTW264841",
       "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/new/6b1948b4befd.html",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Golf R",
+      "model": "Golf",
       "condition": "new",
-      "price": 57486.0,
+      "price": 53437.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Volkswagen Jetta ",
-      "vin": "3VWCW7BUXTM067112",
+      "name": "2026 Volkswagen Jettain Nanaimo",
+      "vin": "3VWCW7BU3TM069736",
       "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/new/18fa42891a55.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Jettain Nanaimo",
+      "condition": "new",
+      "price": 30437.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Volkswagen Jetta GLIin Nanaimo",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/new/16ce6a63dafa.html",
       "year": 2026,
       "make": "Volkswagen",
       "model": "Jetta",
       "condition": "new",
-      "price": 31637.0,
+      "price": 36837.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Volkswagen Jetta GLI ",
-      "vin": "3VW2M7BU1TM072359",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/new/16ce6a63dafa.html",
-      "year": 2026,
-      "make": "Volkswagen",
-      "model": "Jetta GLI",
-      "condition": "new",
-      "price": 41037.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Volkswagen Taos ",
-      "vin": "3VV8C7B24TM091665",
+      "name": "2026 Volkswagen Taosin Nanaimo",
+      "vin": "3VV8C7B23TM092001",
       "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/new/38c5fdedd786.html",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Taos",
+      "model": "Taosin Nanaimo",
       "condition": "new",
-      "price": 35362.0,
+      "price": 30662.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Volkswagen Tiguan ",
-      "vin": "3VVBR7RM8TM142872",
+      "name": "2026 Volkswagen Tiguanin Nanaimo",
+      "vin": "3VVBR7RMXTM157955",
       "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/new/77a9881bc6c0.html",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Tiguan",
+      "model": "Tiguanin Nanaimo",
       "condition": "new",
-      "price": 42787.0,
+      "price": 37587.0,
       "price_currency": "CAD"
     },
     {
@@ -1419,17 +1420,6 @@
       "model": "Tiguan",
       "condition": "new",
       "price": 42287.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Volkswagen Tiguan ",
-      "vin": "3VVER7RM8TM004925",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/new/4b0bdc439f18.html",
-      "year": 2026,
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "condition": "new",
-      "price": 39377.0,
       "price_currency": "CAD"
     },
     {
