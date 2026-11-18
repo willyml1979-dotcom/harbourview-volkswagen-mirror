@@ -1,6 +1,6 @@
 {
   "dealership": "Harbourview Volkswagen",
-  "generated_at": "2026-11-18T04:46:52",
+  "generated_at": "2026-11-18T13:14:27",
   "vehicle_count": 211,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -639,7 +639,7 @@
       "make": "Volkswagen",
       "model": "Jetta",
       "condition": "used",
-      "price": 18977.0,
+      "price": 17977.0,
       "price_currency": "CAD"
     },
     {
@@ -694,7 +694,7 @@
       "make": "Audi",
       "model": "Q3",
       "condition": "used",
-      "price": 27977.0,
+      "price": 26377.0,
       "price_currency": "CAD"
     },
     {
@@ -786,17 +786,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Volkswagen Taos Comfortline 4MOTIONin Nanaimo",
-      "vin": "3VVLX7B22NM037170",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/43a7d53c6b38.html",
-      "year": 2022,
-      "make": "Volkswagen",
-      "model": "Taos",
-      "condition": "used",
-      "price": 21977.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2022 Volkswagen Taos Highlinein Nanaimo",
       "vin": "3VV2X7B22NM091998",
       "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/f61ee5fa9cff.html",
@@ -815,7 +804,7 @@
       "make": "Volkswagen",
       "model": "Taos",
       "condition": "used",
-      "price": 27977.0,
+      "price": 25377.0,
       "price_currency": "CAD"
     },
     {
@@ -826,7 +815,7 @@
       "make": "Volkswagen",
       "model": "Taos",
       "condition": "used",
-      "price": 23977.0,
+      "price": 22677.0,
       "price_currency": "CAD"
     },
     {
@@ -903,7 +892,7 @@
       "make": "Volkswagen",
       "model": "Taos",
       "condition": "used",
-      "price": 26977.0,
+      "price": 25977.0,
       "price_currency": "CAD"
     },
     {
@@ -914,7 +903,18 @@
       "make": "Volkswagen",
       "model": "Taos",
       "condition": "used",
-      "price": 23377.0,
+      "price": 22377.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 Volkswagen Taos Highlinein Nanaimo",
+      "vin": "3VV4X7B21RM042533",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/824e9a398b7e.html",
+      "year": 2024,
+      "make": "Volkswagen",
+      "model": "Taos",
+      "condition": "used",
+      "price": 32377.0,
       "price_currency": "CAD"
     },
     {
@@ -936,7 +936,7 @@
       "make": "Volkswagen",
       "model": "Tiguan",
       "condition": "used",
-      "price": 28977.0,
+      "price": 27977.0,
       "price_currency": "CAD"
     },
     {
@@ -947,7 +947,7 @@
       "make": "Nissan",
       "model": "Versa",
       "condition": "used",
-      "price": 22977.0,
+      "price": 21977.0,
       "price_currency": "CAD"
     },
     {
