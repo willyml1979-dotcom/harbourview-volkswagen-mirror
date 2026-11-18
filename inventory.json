@@ -1,6 +1,6 @@
 {
   "dealership": "Harbourview Volkswagen",
-  "generated_at": "2026-11-16T19:50:48",
+  "generated_at": "2026-11-17T17:52:35",
   "vehicle_count": 216,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -11,6 +11,22 @@
       "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/57b06ca87e49.html",
       "condition": "used",
       "price": 17477.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen Golf 2015 for salein Nanaimo",
+      "vin": "3VWCA7AU1FM504290",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/c354e6a320f6.html",
+      "condition": "used",
+      "price": 19577.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen Tiguan 2017 for salein Nanaimo",
+      "vin": "WVGLV7AX8HW500303",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/1ab842c269d4.html",
+      "condition": "used",
+      "price": 17977.0,
       "price_currency": "CAD"
     },
     {
@@ -51,6 +67,14 @@
       "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/e81948ba8ec4.html",
       "condition": "used",
       "price": 20377.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "RAM 1500 Classic 2020 for salein Nanaimo",
+      "vin": "3C6RR7KT9LG167610",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/f8f219ff5c11.html",
+      "condition": "used",
+      "price": 27977.0,
       "price_currency": "CAD"
     },
     {
@@ -126,6 +150,14 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Honda Odyssey 2023 for salein Nanaimo",
+      "vin": "5FNRL6H81PB500711",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/6264fe930786.html",
+      "condition": "used",
+      "price": 40577.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Volkswagen Atlas 2023 for salein Nanaimo",
       "vin": "1V2BR2CAXPC538632",
       "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/dc368da5619a.html",
@@ -171,6 +203,94 @@
       "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/22823752a0ce.html",
       "condition": "used",
       "price": 21977.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen Tiguan 2024 for salein Nanaimo",
+      "vin": "3VV2B7AX6RM140170",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/bf6087b43b31.html",
+      "condition": "used",
+      "price": 26477.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Audi Q3 2025 for salein Nanaimo",
+      "vin": "WA1AUCF34S1073679",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/84184569232b.html",
+      "condition": "used",
+      "price": 33977.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mitsubishi Outlander PHEV 2025 for salein Nanaimo",
+      "vin": "JA4T5WA96SZ600951",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/236746896fb1.html",
+      "condition": "used",
+      "price": 45977.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Nissan Versa 2025 for salein Nanaimo",
+      "vin": "3N1CN8EV6SL863928",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/11d05e021705.html",
+      "condition": "used",
+      "price": 21977.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen Atlas Cross Sport 2025 for salein Nanaimo",
+      "vin": "1V2HE2CA5SC225728",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/bce0de98413f.html",
+      "condition": "used",
+      "price": 46977.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen ID. Buzz 2025 for salein Nanaimo",
+      "vin": "WVG6YVEB1SH032739",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/285ca5258294.html",
+      "condition": "used",
+      "price": 69977.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen Taos 2025 for salein Nanaimo",
+      "vin": "3VV2C7B24SM047802",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/fe92018827c9.html",
+      "condition": "used",
+      "price": 30477.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen Tiguan 2025 for salein Nanaimo",
+      "vin": "3VVER7RM8SM019102",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/c082b563556b.html",
+      "condition": "used",
+      "price": 36977.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "RAM ProMaster Cargo Van 2026 for salein Nanaimo",
+      "vin": "3C6LRVCG4TE165934",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/7048e23ecdf5.html",
+      "condition": "used",
+      "price": 49577.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen Tiguan 2026 for salein Nanaimo",
+      "vin": "3VVER7RM8TM004925",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/4b0bdc439f18.html",
+      "condition": "used",
+      "price": 37377.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Used Volkswagen Beetle for salein Nanaimo",
+      "vin": "3VWJ17AT0HM603037",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/1ce9ab85b214.html",
+      "condition": "used",
+      "price": 16677.0,
       "price_currency": "CAD"
     },
     {
@@ -228,17 +348,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2015 Volkswagen Golf ",
-      "vin": "3VWCA7AU1FM504290",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/c354e6a320f6.html",
-      "year": 2015,
-      "make": "Volkswagen",
-      "model": "Golf",
-      "condition": "used",
-      "price": 19577.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2017 Volkswagen Beetle Trendlinein Nanaimo",
       "vin": "3VWJ17AT0HM603037",
       "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/37c5332f3919.html",
@@ -250,31 +359,9 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2017 Volkswagen Beetle ",
-      "vin": "3VWJ17AT0HM603037",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/b693c8b49fbd.html",
-      "year": 2017,
-      "make": "Volkswagen",
-      "model": "Beetle",
-      "condition": "used",
-      "price": 18377.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2017 Volkswagen Tiguan Highl 2.0 Tsi 200hpin Nanaimo",
       "vin": "WVGLV7AX8HW500303",
       "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/3bac5a3f3a55.html",
-      "year": 2017,
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "condition": "used",
-      "price": 18977.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2017 Volkswagen Tiguan ",
-      "vin": "WVGLV7AX8HW500303",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/1ab842c269d4.html",
       "year": 2017,
       "make": "Volkswagen",
       "model": "Tiguan",
@@ -385,17 +472,6 @@
       "name": "2020 RAM 1500 Classic Expressin Nanaimo",
       "vin": "3C6RR7KT9LG167610",
       "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/2600c4f03293.html",
-      "year": 2020,
-      "make": "RAM",
-      "model": "1500 Classic",
-      "condition": "used",
-      "price": 28977.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2020 RAM 1500 Classic ",
-      "vin": "3C6RR7KT9LG167610",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/f8f219ff5c11.html",
       "year": 2020,
       "make": "RAM",
       "model": "1500 Classic",
@@ -668,17 +744,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Honda Odyssey ",
-      "vin": "5FNRL6H81PB500711",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/6264fe930786.html",
-      "year": 2023,
-      "make": "Honda",
-      "model": "Odyssey",
-      "condition": "used",
-      "price": 41677.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2023 Honda CR-V ",
       "vin": "2HKRS4H2XPH104801",
       "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/new/c98063d5a65f.html",
@@ -752,7 +817,7 @@
       "make": "Volkswagen",
       "model": "Tiguan",
       "condition": "used",
-      "price": 27977.0,
+      "price": 26477.0,
       "price_currency": "CAD"
     },
     {
@@ -764,17 +829,6 @@
       "model": "Tiguan",
       "condition": "used",
       "price": 28977.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Volkswagen Tiguan ",
-      "vin": "3VV2B7AX6RM140170",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/bf6087b43b31.html",
-      "year": 2024,
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "condition": "used",
-      "price": 27977.0,
       "price_currency": "CAD"
     },
     {
@@ -797,17 +851,6 @@
       "model": "Taos",
       "condition": "new",
       "price": 23777.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Audi Q3 ",
-      "vin": "WA1AUCF34S1073679",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/84184569232b.html",
-      "year": 2025,
-      "make": "Audi",
-      "model": "Q3",
-      "condition": "used",
-      "price": 35977.0,
       "price_currency": "CAD"
     },
     {
@@ -846,17 +889,6 @@
     {
       "name": "2025 Mitsubishi Outlander PHEV ",
       "vin": "JA4T5WA96SZ600951",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/236746896fb1.html",
-      "year": 2025,
-      "make": "Mitsubishi",
-      "model": "Outlander PHEV",
-      "condition": "used",
-      "price": 46977.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Mitsubishi Outlander PHEV ",
-      "vin": "JA4T5WA96SZ600951",
       "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/new/236746896fb1.html",
       "year": 2025,
       "make": "Mitsubishi",
@@ -879,45 +911,12 @@
     {
       "name": "2025 Nissan Versa ",
       "vin": "3N1CN8EV6SL863928",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/11d05e021705.html",
-      "year": 2025,
-      "make": "Nissan",
-      "model": "Versa",
-      "condition": "used",
-      "price": 22977.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Nissan Versa ",
-      "vin": "3N1CN8EV6SL863928",
       "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/new/11d05e021705.html",
       "year": 2025,
       "make": "Nissan",
       "model": "Versa",
       "condition": "new",
       "price": 23377.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Volkswagen Atlas Cross Sport ",
-      "vin": "1V2HE2CA5SC225728",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/bce0de98413f.html",
-      "year": 2025,
-      "make": "Volkswagen",
-      "model": "Atlas Cross Sport",
-      "condition": "used",
-      "price": 48977.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Volkswagen ID. Buzz ",
-      "vin": "WVG6YVEB2SH014217",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/285ca5258294.html",
-      "year": 2025,
-      "make": "Volkswagen",
-      "model": "ID. Buzz",
-      "condition": "used",
-      "price": 67777.0,
       "price_currency": "CAD"
     },
     {
@@ -940,28 +939,6 @@
       "model": "Taos",
       "condition": "used",
       "price": 30477.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Volkswagen Taos ",
-      "vin": "3VVVC7B23SM022483",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/fe92018827c9.html",
-      "year": 2025,
-      "make": "Volkswagen",
-      "model": "Taos",
-      "condition": "used",
-      "price": 29777.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Volkswagen Tiguan ",
-      "vin": "3VVER7RM8SM019102",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/c082b563556b.html",
-      "year": 2025,
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "condition": "used",
-      "price": 37977.0,
       "price_currency": "CAD"
     },
     {
@@ -1033,34 +1010,12 @@
     {
       "name": "2026 RAM ProMaster Cargo Van ",
       "vin": "3C6LRVCG4TE165934",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/7048e23ecdf5.html",
-      "year": 2026,
-      "make": "RAM",
-      "model": "ProMaster",
-      "condition": "used",
-      "price": 51277.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 RAM ProMaster Cargo Van ",
-      "vin": "3C6LRVCG4TE165934",
       "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/new/7048e23ecdf5.html",
       "year": 2026,
       "make": "RAM",
       "model": "ProMaster",
       "condition": "new",
       "price": 51977.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Volkswagen Tiguan ",
-      "vin": "3VVER7RM8TM004925",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/4b0bdc439f18.html",
-      "year": 2026,
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "condition": "used",
-      "price": 38977.0,
       "price_currency": "CAD"
     },
     {
