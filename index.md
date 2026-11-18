@@ -1,6 +1,6 @@
 # Harbourview Volkswagen
 
- dealership in Nanaimo. AI-readable inventory mirror, about 208 vehicles.
+ dealership in Nanaimo. AI-readable inventory mirror, about 211 vehicles.
 
 - Official website: https://www.harbourviewvw.com/
 - Used vehicles: https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/

@@ -1,7 +1,7 @@
 {
   "dealership": "Harbourview Volkswagen",
-  "generated_at": "2026-11-17T18:36:53",
-  "vehicle_count": 208,
+  "generated_at": "2026-11-18T04:31:00",
+  "vehicle_count": 211,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -19,6 +19,14 @@
       "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/c354e6a320f6.html",
       "condition": "used",
       "price": 19577.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Chevrolet Colorado 2017 for salein Nanaimo",
+      "vin": "1GCHSBEN7H1322993",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/d292272a4c23.html",
+      "condition": "used",
+      "price": 19999.0,
       "price_currency": "CAD"
     },
     {
@@ -70,6 +78,14 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Mazda CX-30 2020 for salein Nanaimo",
+      "vin": "3MVDMBB7XLM136891",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/0f2ab48ed5eb.html",
+      "condition": "used",
+      "price": 22377.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "RAM 1500 Classic 2020 for salein Nanaimo",
       "vin": "3C6RR7KT9LG167610",
       "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/f8f219ff5c11.html",
@@ -94,11 +110,51 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Ford Explorer 2021 for salein Nanaimo",
+      "vin": "1FM5K8GC9MGA47311",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/3c1447574642.html",
+      "condition": "used",
+      "price": 36999.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Kia Sportage 2021 for salein Nanaimo",
+      "vin": "KNDPNCAC6M7922392",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/3ce24ef0102c.html",
+      "condition": "used",
+      "price": 22999.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Volkswagen Tiguan 2021 for salein Nanaimo",
       "vin": "3VV2B7AX1MM070862",
       "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/ada491d1002b.html",
       "condition": "used",
       "price": 23977.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Audi E-tron 2022 for salein Nanaimo",
+      "vin": "WA13AAGE5NB043188",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/26801a1ac78c.html",
+      "condition": "used",
+      "price": 41977.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Audi Q3 2022 for salein Nanaimo",
+      "vin": "WA1AECF32N1146730",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/749ff0042f7c.html",
+      "condition": "used",
+      "price": 26377.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Audi Q4 E-tron 2022 for salein Nanaimo",
+      "vin": "WA1M2AFZ5NP054720",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/d3635747424a.html",
+      "condition": "used",
+      "price": 43999.0,
       "price_currency": "CAD"
     },
     {
@@ -222,6 +278,14 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Ford Transit Cargo Van 2025 for salein Nanaimo",
+      "vin": "1FTBR1Y88SKB16939",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/9f3d55881cc8.html",
+      "condition": "used",
+      "price": 47977.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Mitsubishi Outlander PHEV 2025 for salein Nanaimo",
       "vin": "JA4T5WA96SZ600951",
       "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/236746896fb1.html",
@@ -267,6 +331,14 @@
       "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/c082b563556b.html",
       "condition": "used",
       "price": 36977.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Chevrolet Silverado 1500 2026 for salein Nanaimo",
+      "vin": "2GCUKDED7T1137590",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/0293fd4854ee.html",
+      "condition": "used",
+      "price": 49577.0,
       "price_currency": "CAD"
     },
     {
@@ -389,7 +461,7 @@
       "make": "Volkswagen",
       "model": "Golf GTI",
       "condition": "used",
-      "price": 19999.0,
+      "price": 17477.0,
       "price_currency": "CAD"
     },
     {
@@ -404,6 +476,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2017 Chevrolet Colorado 2wd Wtin Nanaimo",
+      "vin": "1GCHSBEN7H1322993",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/fb3231ddf4e6.html",
+      "year": 2017,
+      "make": "Chevrolet",
+      "model": "Colorado",
+      "condition": "used",
+      "price": 19999.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2017 Volkswagen Beetle Trendlinein Nanaimo",
       "vin": "3VWJ17AT0HM603037",
       "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/37c5332f3919.html",
@@ -411,7 +494,7 @@
       "make": "Volkswagen",
       "model": "Beetle",
       "condition": "used",
-      "price": 18377.0,
+      "price": 16677.0,
       "price_currency": "CAD"
     },
     {
@@ -422,7 +505,7 @@
       "make": "Volkswagen",
       "model": "Tiguan",
       "condition": "used",
-      "price": 18977.0,
+      "price": 17977.0,
       "price_currency": "CAD"
     },
     {
@@ -455,7 +538,7 @@
       "make": "Volkswagen",
       "model": "Golf",
       "condition": "used",
-      "price": 22999.0,
+      "price": 20277.0,
       "price_currency": "CAD"
     },
     {
@@ -466,7 +549,7 @@
       "make": "Volkswagen",
       "model": "Golf",
       "condition": "used",
-      "price": 17999.0,
+      "price": 16677.0,
       "price_currency": "CAD"
     },
     {
@@ -488,7 +571,7 @@
       "make": "Mercedes-Benz",
       "model": "GLA",
       "condition": "used",
-      "price": 19977.0,
+      "price": 18477.0,
       "price_currency": "CAD"
     },
     {
@@ -510,18 +593,7 @@
       "make": "Mazda",
       "model": "CX-30",
       "condition": "used",
-      "price": 24377.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2020 Mazda CX-30 ",
-      "vin": "3MVDMBB7XLM136891",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/0f2ab48ed5eb.html",
-      "year": 2020,
-      "make": "Mazda",
-      "model": "CX-30",
-      "condition": "used",
-      "price": 24377.0,
+      "price": 22377.0,
       "price_currency": "CAD"
     },
     {
@@ -532,7 +604,7 @@
       "make": "RAM",
       "model": "1500 Classic",
       "condition": "used",
-      "price": 28977.0,
+      "price": 27977.0,
       "price_currency": "CAD"
     },
     {
@@ -569,6 +641,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2021 Kia Sportage Ex Sin Nanaimo",
+      "vin": "KNDPNCAC6M7922392",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/0c250ff8221e.html",
+      "year": 2021,
+      "make": "Kia",
+      "model": "Sportage",
+      "condition": "used",
+      "price": 22999.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2021 Volkswagen Tiguan United 2.0tsi 184hpin Nanaimo",
       "vin": "3VV2B7AX1MM070862",
       "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/add2b4698a9e.html",
@@ -580,17 +663,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Audi e-tron ",
-      "vin": "WA13AAGE5NB043188",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/26801a1ac78c.html",
-      "year": 2022,
-      "make": "Audi",
-      "model": "e-tron",
-      "condition": "used",
-      "price": 43977.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2022 Audi Q3 Komfortin Nanaimo",
       "vin": "WA1AECF32N1146730",
       "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/e310cf521e54.html",
@@ -599,28 +671,6 @@
       "model": "Q3",
       "condition": "used",
       "price": 27977.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Audi Q3 ",
-      "vin": "WA1AECF32N1146730",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/749ff0042f7c.html",
-      "year": 2022,
-      "make": "Audi",
-      "model": "Q3",
-      "condition": "used",
-      "price": 27977.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Audi Q4 e-tron ",
-      "vin": "WA1L2AFZ8NP055016",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/d3635747424a.html",
-      "year": 2022,
-      "make": "Audi",
-      "model": "Q4 e-tron",
-      "condition": "used",
-      "price": 40999.0,
       "price_currency": "CAD"
     },
     {
@@ -676,6 +726,17 @@
       "model": "3 Series",
       "condition": "used",
       "price": 29977.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2022 Mazda3 Sport Gt Turboin Nanaimo",
+      "vin": "JM1BPBMY7N1515143",
+      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/565cc67d4615.html",
+      "year": 2022,
+      "make": "Mazda3",
+      "model": "Sport Gt Turboin Nanaimo",
+      "condition": "used",
+      "price": 29999.0,
       "price_currency": "CAD"
     },
     {
@@ -778,17 +839,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Audi Q5 Progressivin Nanaimo",
-      "vin": "WA1EAAFY8P2093249",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/5c358c08365d.html",
-      "year": 2023,
-      "make": "Audi",
-      "model": "Q5",
-      "condition": "used",
-      "price": 31977.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2023 Audi Q5 ",
       "vin": "WA1EAAFY6P2132131",
       "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/new/097682b2dccb.html",
@@ -808,17 +858,6 @@
       "model": "CR-V",
       "condition": "new",
       "price": 32977.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Volkswagen Tiguan Comfortline R-Linein Nanaimo",
-      "vin": "3VV8B7AX5PM006466",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/983a157c9cc6.html",
-      "year": 2023,
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "condition": "used",
-      "price": 32477.0,
       "price_currency": "CAD"
     },
     {
@@ -855,17 +894,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Volkswagen Taos Highlinein Nanaimo",
-      "vin": "3VV4X7B21RM042533",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/824e9a398b7e.html",
-      "year": 2024,
-      "make": "Volkswagen",
-      "model": "Taos",
-      "condition": "used",
-      "price": 32377.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2024 Volkswagen Tiguan Comfortlinein Nanaimo",
       "vin": "3VV2B7AX6RM140170",
       "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/cf69836b79f1.html",
@@ -885,17 +913,6 @@
       "model": "Tiguan",
       "condition": "used",
       "price": 28977.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Ford Transit Cargo Van ",
-      "vin": "1FTBR1Y88SKB16939",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/9f3d55881cc8.html",
-      "year": 2025,
-      "make": "Ford",
-      "model": "Transit Cargo",
-      "condition": "used",
-      "price": 49577.0,
       "price_currency": "CAD"
     },
     {
@@ -940,17 +957,6 @@
       "model": "Tiguan",
       "condition": "new",
       "price": 38477.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Chevrolet Silverado 1500 ",
-      "vin": "2GCUKDED7T1137590",
-      "url": "https://willyml1979-dotcom.github.io/harbourview-volkswagen-mirror/used/0293fd4854ee.html",
-      "year": 2026,
-      "make": "Chevrolet",
-      "model": "Silverado 1500",
-      "condition": "used",
-      "price": 50977.0,
       "price_currency": "CAD"
     },
     {
